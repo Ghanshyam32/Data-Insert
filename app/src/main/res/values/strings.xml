@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Insert</string>
+
+    <array name="courses">
+
+        <item>BCA</item>
+        <item>B.TECH</item>
+        <item>BSc</item>
+        <item>B Pharma</item>
+    </array>
+</resources>
